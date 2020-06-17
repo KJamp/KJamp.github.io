@@ -1,2 +1,10 @@
 # Qwert Zuiopü
 Qwert Zuiopü war ein Gallertprinz aus der 2364. Dimension. Am Tag seiner Krönung stolperte Qwert auf dem Gang zum Thron über eine Falte im Teppich, fiel in ein Dimensionsloch und landete in Zamonien.
+
+## Details des Charakters
+
+* Daseinsform: Gallertwesen
+* Geschlecht: Männlich
+* Hautfarbe: Rosafarben
+* Heimat: 2364. Dimension
+* Beruf: Prinz der 2364. Dimension
