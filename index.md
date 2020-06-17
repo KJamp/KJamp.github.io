@@ -8,3 +8,5 @@ Qwert Zuiopü war ein Gallertprinz aus der 2364. Dimension. Am Tag seiner Krönu
 * Hautfarbe: Rosafarben
 * Heimat: 2364. Dimension
 * Beruf: Prinz der 2364. Dimension
+
+> Hier Zitat vom Charakter
